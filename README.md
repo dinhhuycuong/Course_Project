@@ -12,7 +12,7 @@ Steps:
 
 5. Merges the training and the test sets to create one data set.
 
-6. Extracts only the measurements on the mean and standard deviation for each measurement.
+6. Extracts only the measurements on the mean and standard deviation for each measurement using grep function.
 
 7. Uses descriptive activity names to name the activities in the data set by merging the dataset with activity labels data frame
 
